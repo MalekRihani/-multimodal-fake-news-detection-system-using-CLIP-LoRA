@@ -1,0 +1,12 @@
+
+torch
+transformers
+peft
+tqdm
+scikit-learn
+pandas
+numpy
+Pillow
+matplotlib
+seaborn
+ipywidgets
